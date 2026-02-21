@@ -1,4 +1,4 @@
-I am a SOC Analyst, passionate about threat monitoring, incident response, and Cybersecurity defense. I am commited, hands-on and Professional.
+I am a SOC Analyst, passionate about threat monitoring, incident response, and Cybersecurity defense. I am committed, hands-on and Professional.
 
 ## Objective
 Dedicated SOC Analyst, with the goal of leveraging practical cybersecurity skills to identify threats, analyze security events, and contribute to protecting individuals and organizations' critical systems while continuously advancing my expertise in security operations and network defense.
