@@ -1,3 +1,5 @@
+I am a SOC Analyst, passionate about threat monitoring, incident response, and Cybersecurity defense. I am commited, hands-on and Professional.
+
 ## Objective
 Dedicated SOC Analyst, with the goal of leveraging practical cybersecurity skills to identify threats, analyze security events, and contribute to protecting individuals and organizations' critical systems while continuously advancing my expertise in security operations and network defense.
 
@@ -30,7 +32,7 @@ Problem-solving and Analytical Thinking
 ![MISP](https://img.shields.io/badge/MISP-Threat%20Intel-orange)
 
 ### Forensics
-![Volatility](https://img.shield.io/badge/Volatility-Forensics-green)
+![Volatility](https://img.shields.io/badge/Volatility-Forensics-green)
 
 ### Automation
 ![Poweshell](https://img.shields.io/badge/Powershell-Automation-lightgrey)
