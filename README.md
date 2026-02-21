@@ -4,14 +4,14 @@ I am a SOC Analyst, passionate about threat monitoring, incident response, and C
 Dedicated SOC Analyst, with the goal of leveraging practical cybersecurity skills to identify threats, analyze security events, and contribute to protecting individuals and organizations' critical systems while continuously advancing my expertise in security operations and network defense.
 
 ## Skills
-Network Traffic Analysis
-Protocols Inspection
-Cyber Threat Intelligence
-Incident Response
-Endpoint Detection and Response
-Vulnerability Management
-System Network Configuration (CCNA Labs)
-Problem-solving and Analytical Thinking
+- Network Traffic Analysis
+- Protocols Inspection
+- Cyber Threat Intelligence
+- Incident Response
+- Endpoint Detection and Response
+- Vulnerability Management
+- System Network Configuration (CCNA Labs)
+- Problem-solving and Analytical Thinking
 
 ## Tools & Technologies
 
@@ -38,10 +38,10 @@ Problem-solving and Analytical Thinking
 ![Poweshell](https://img.shields.io/badge/Powershell-Automation-lightgrey)
 
 ## Certification 
-**Cisco Networking Baasics** - Completed
-**Axial Africa Cybersecurity** - Completed
-**IBM Cybersecurity Fundamentals** - Completed
-**CCNA (Cisco Certified Network Associate)** - In Progress
+- **Cisco Networking Baasics** - Completed
+- **Axial Africa Cybersecurity** - Completed
+- **IBM Cybersecurity Fundamentals** - Completed
+- **CCNA (Cisco Certified Network Associate)** - In Progress
 
 ## Projects
 [View Project Repository](https://github.com/IgbojionuLinda/Wireshark-Network-Traffic-Analysis-Project)
