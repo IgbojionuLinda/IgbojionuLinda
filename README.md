@@ -16,11 +16,11 @@ Problem-solving and Analytical Thinking
 ### Network
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue)
 ![TCP](https://img.shields.io/badge/TCP-Network-blue)
-![UDP](https//img.shields.io/badge/UDP-Network-lightgrey)
+![UDP](https://img.shields.io/badge/UDP-Network-lightgrey)
 
 ### SIEM
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-SIEM-orange)
-![Splunk](https://img.shields.io/badge/Splink-SIEM-red)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-red)
 
 ### Vulnerability Scanning
 ![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-blueviolet)
@@ -30,7 +30,7 @@ Problem-solving and Analytical Thinking
 ![MISP](https://img.shields.io/badge/MISP-Threat%20Intel-orange)
 
 ### Forensics
-![Volatility](https://img.shield.io/badbe/Volatility-Forensics-green)
+![Volatility](https://img.shield.io/badge/Volatility-Forensics-green)
 
 ### Automation
 ![Poweshell](https://img.shields.io/badge/Powershell-Automation-lightgrey)
