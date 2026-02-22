@@ -12,6 +12,8 @@ Dedicated SOC Analyst, with the goal of leveraging practical cybersecurity skill
 - Vulnerability Management
 - System Network Configuration (CCNA Labs)
 - Problem-solving and Analytical Thinking
+- Ability to efficiently work with team members
+- Great communication skills
 
 ## Tools & Technologies
 
