@@ -40,6 +40,7 @@ My focus is building reliable newtworks, investigating connectivity issues, and 
 
 ## Projects
 Designed and documented a multi-site enterprise network with departmental VLANs, inter-VLAN, routing, DHCP, OSPC, eBGP, and simulated connection. View the project repository👇👇👇
+
 [View project Repository](https://github.com/IgbojionuLinda/Enterprise-network-packet-tracer)
 
 [View Project Repository](https://github.com/IgbojionuLinda/Wireshark-Network-Traffic-Analysis-Project)
