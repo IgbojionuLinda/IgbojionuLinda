@@ -43,8 +43,6 @@ Designed and documented a multi-site enterprise network with departmental VLANs,
 
 [View project Repository](https://github.com/IgbojionuLinda/Enterprise-network-packet-tracer)
 
-[View Project Repository](https://github.com/IgbojionuLinda/Wireshark-Network-Traffic-Analysis-Project)
-
 ## Current Focus
 - Strengthening enterprise routing and switching.
 - Improving network troubleshooting and monitoring.
