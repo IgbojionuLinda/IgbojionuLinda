@@ -19,8 +19,8 @@ My focus is building reliable newtworks, investigating connectivity issues, and 
 ### Network
 ![MikroTik Winbox](https://img.shields.io/badge/MikroTik-Winbox-black)
 ![UISP](https://img.shields.io/badge/UISP-Monitoring-blue)
-![Zabbix](https://img.shields.oi/badge/Zabbix-Monitoring-black)
-![Cisco Packet Tracer](https//:img.shields.io/badge/Cisco-Packet-Tracer-green)
+![Zabbix](https://img.shields.oi/badge/Zabbix-black)
+![Cisco Packet Tracer](https//:img.shields.io/badge/Cisco-green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue)
 ![TCP](https://img.shields.io/badge/TCP-Network-blue)
 ![UDP](https://img.shields.io/badge/UDP-Network-lightgrey)
