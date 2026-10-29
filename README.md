@@ -4,7 +4,7 @@ I work with network infrastructure, monitoring, and connectivity troubleshooting
 My focus is building reliable newtworks, investigating connectivity issues, and understanding how infrastructure works across connected environments. I'm also expanding my knowledge in cloud networking and infrasructure.
 
 ## Skills
-- **Networking**: VLANs, IP addressing, subnetting, inter-VLAN routing, OSPF, eBGP, DHCP, NAT/PAT
+- **Networking**: VLANs, IP addressing, subnetting, inter-VLAN routing, OSPF, eBGP, DHCP, ACL, NAT/PAT
 - **Network Operations**: Network monitoring, fault investing, connectivity troubleshooting, escalation, and service restoration.
 - **Tools**: Zabbix, UISP, MikroTik Winbox, Hauwei OLTs, Grafana, SolerWinds NPM, PuTTY, Cisco Packet Tracer, Wireshark, Splunk, Azure cloud infrastructure, Microsoft applications, Slack.
 - **Infrastructure**: Routing and switching, NOC, Fiber connectivity, wireless links, Network Support, IT, Azure Cloude Infrastructure.  
