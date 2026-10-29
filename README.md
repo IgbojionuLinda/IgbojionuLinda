@@ -1,13 +1,13 @@
 I work with network infrastructure, monitoring, and connectivity troubleshooting, with practical exposure to live ISP **network operations** and enterprise network design.
 
 ## Objective
-My focus is building reliable newtworks, investigating connectivity issues, and understanding how infrastructure works across connected environments. I'm also expanding my knowledge in cloud networking and infrasructure.
+My focus is building reliable networks, investigating connectivity issues, and understanding how infrastructure works across connected environments. I'm also expanding my knowledge in cloud networking and infrastructure.
 
 ## Skills
 - **Networking**: VLANs, IP addressing, subnetting, inter-VLAN routing, OSPF, eBGP, DHCP, ACL, NAT/PAT
-- **Network Operations**: Network monitoring, fault investing, connectivity troubleshooting, escalation, and service restoration.
-- **Tools**: Zabbix, UISP, MikroTik Winbox, Hauwei OLTs, Grafana, SolerWinds NPM, PuTTY, Cisco Packet Tracer, Wireshark, Splunk, Azure cloud infrastructure, Microsoft applications, Slack.
-- **Infrastructure**: Routing and switching, NOC, Fiber connectivity, wireless links, Network Support, IT, Azure Cloud Infrastructure.  
+- **Network Operations**: Network monitoring, fault investigation, connectivity troubleshooting, escalation, and service restoration.
+- **Tools**: Zabbix, UISP, MikroTik Winbox, Huawei OLTs, Grafana, SolarWinds NPM, PuTTY, Cisco Packet Tracer, Wireshark, Splunk, Azure cloud infrastructure, Microsoft applications, Slack.
+- **Infrastructure**: Routing and switching, NOC, Fibre connectivity, wireless links, Network Support, IT, Azure Cloud Infrastructure.  
 - System Network Configuration (CCNA Labs)
 - Technical communication
 - Problem-solving and Analytical Thinking
@@ -39,7 +39,7 @@ My focus is building reliable newtworks, investigating connectivity issues, and 
 - **CCNA (Cisco Certified Network Associate)** - In view
 
 ## Projects
-Designed and documented a multi-site enterprise network with departmental VLANs, inter-VLAN, routing, DHCP, OSPC, eBGP, and simulated connection. View the project repository👇👇👇
+Designed and documented a multi-site enterprise network with departmental VLANs, inter-VLAN routing, DHCP, OSPF, eBGP, and simulated connection. View the project repository👇👇👇
 
 [View project Repository](https://github.com/IgbojionuLinda/Enterprise-network-packet-tracer)
 
