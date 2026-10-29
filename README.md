@@ -7,7 +7,7 @@ My focus is building reliable newtworks, investigating connectivity issues, and 
 - **Networking**: VLANs, IP addressing, subnetting, inter-VLAN routing, OSPF, eBGP, DHCP, ACL, NAT/PAT
 - **Network Operations**: Network monitoring, fault investing, connectivity troubleshooting, escalation, and service restoration.
 - **Tools**: Zabbix, UISP, MikroTik Winbox, Hauwei OLTs, Grafana, SolerWinds NPM, PuTTY, Cisco Packet Tracer, Wireshark, Splunk, Azure cloud infrastructure, Microsoft applications, Slack.
-- **Infrastructure**: Routing and switching, NOC, Fiber connectivity, wireless links, Network Support, IT, Azure Cloude Infrastructure.  
+- **Infrastructure**: Routing and switching, NOC, Fiber connectivity, wireless links, Network Support, IT, Azure Cloud Infrastructure.  
 - System Network Configuration (CCNA Labs)
 - Technical communication
 - Problem-solving and Analytical Thinking
@@ -19,7 +19,7 @@ My focus is building reliable newtworks, investigating connectivity issues, and 
 ### Network
 ![MikroTik Winbox](https://img.shields.io/badge/MikroTik-Winbox-black)
 ![UISP](https://img.shields.io/badge/UISP-Monitoring-blue)
-![Zabbix](https://img.shields.oi/badge/Zabbix-monitoring%20-black)
+![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-black)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue)
 ![TCP](https://img.shields.io/badge/TCP-Network-blue)
@@ -41,6 +41,7 @@ My focus is building reliable newtworks, investigating connectivity issues, and 
 ## Projects
 Designed and documented a multi-site enterprise network with departmental VLANs, inter-VLAN, routing, DHCP, OSPC, eBGP, and simulated connection. View the project repository👇👇👇
 [View project Repository](https://github.com/IgbojionuLinda/Enterprise-network-packet-tracer)
+
 [View Project Repository](https://github.com/IgbojionuLinda/Wireshark-Network-Traffic-Analysis-Project)
 
 ## Current Focus
