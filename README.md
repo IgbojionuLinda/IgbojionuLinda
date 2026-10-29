@@ -1,4 +1,4 @@
-I work with network infrastructure, monitoring, and connectivity troubleshooting, with practical exposure to live ISP network operations and enterprise network design.
+I work with network infrastructure, monitoring, and connectivity troubleshooting, with practical exposure to live ISP **network operations** and enterprise network design.
 
 ## Objective
 My focus is building reliable newtworks, investigating connectivity issues, and understanding how infrastructure works across connected environments. I'm also expanding my knowledge of cloud networking and infrasructure.
